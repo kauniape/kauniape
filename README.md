@@ -22,8 +22,6 @@ Perkenalkan nama saya **Firman Sanjaya**.
 
 Saya seorang **Mahasiswa** di Politeknik Harapan Bersama.
 
-Saya memiliki minat di bidang artificial intelligence terutama Computer Vision, machine learning, dan Deep learning.
-
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/firman-sanjaya/)ku ya.
 
 <p align="left">
